@@ -19,6 +19,10 @@ All Ardeno products have trademarks with the local governing laws and certified 
 ## Check out our products
 
 [<b>Armchairs</b>](https://ardeno.com/product-category/armchair/)
+[<b>Bar-sets</b>] (https://ardeno.com/product-category/bar-set/)
+[<b>Chairs</b>](https://ardeno.com/product-category/chairs/)
+[<b>Contracts</b>](https://ardeno.com/product-category/contract/)
+[<b>Stools</b>] (https://ardeno.com/product-category/stool/)
 
 ## [Contact us](https://ardeno.com/contact-us/)
 
