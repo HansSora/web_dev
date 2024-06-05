@@ -16,5 +16,5 @@ Our products are built on the choices of our product lines, creating new models,
 
 All Ardeno products have trademarks with the local governing laws and certified with ISO 9001 – 2008 14001-2004
 
-## [Contact us]
+## [Contact us](https://ardeno.com/contact-us/)
 
