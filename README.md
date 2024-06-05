@@ -4,7 +4,7 @@
 
 Ardeno is a company that’s been operating on the market for over 20 years in the production and processing of wood, with a wide range of products such as wooden elements, chairs, tables, sofas, kitchens, living rooms, bedrooms and customized furniture.
 
-![Ardeno Logo](https://ardeno.com/wp-content/uploads/2015/09/sherbim-i-garantuar.jpg) <width=200/>
+![Ardeno Logo](https://ardeno.com/wp-content/uploads/2015/09/sherbim-i-garantuar.jpg)
 
 #### INDUSTRIAL ORGANIZATION
 
@@ -15,6 +15,10 @@ Ardeno’s high Italian and German technology is based on 8000 square meters of 
 Our products are built on the choices of our product lines, creating new models, wood selection, manufacturing techniques and the use of textiles and colors. Every aspect of our production is supported in collaboration with Italian and German firms.
 
 All Ardeno products have trademarks with the local governing laws and certified with ISO 9001 – 2008 14001-2004
+
+## Check out our products
+
+[<b>Armchairs</b>](https://ardeno.com/product-category/armchair/)
 
 ## [Contact us](https://ardeno.com/contact-us/)
 
