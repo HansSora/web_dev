@@ -4,7 +4,7 @@
 
 Ardeno is a company that’s been operating on the market for over 20 years in the production and processing of wood, with a wide range of products such as wooden elements, chairs, tables, sofas, kitchens, living rooms, bedrooms and customized furniture.
 
-![Ardeno Logo](https://ardeno.com/wp-content/uploads/2015/09/sherbim-i-garantuar.jpg)
+![Ardeno Logo](https://ardeno.com/wp-content/uploads/2015/09/sherbim-i-garantuar.jpg) <width=200/>
 
 #### INDUSTRIAL ORGANIZATION
 
@@ -17,4 +17,8 @@ Our products are built on the choices of our product lines, creating new models,
 All Ardeno products have trademarks with the local governing laws and certified with ISO 9001 – 2008 14001-2004
 
 ## [Contact us](https://ardeno.com/contact-us/)
+
+### Address
+
+Autostrada Tirane – Durres, Km 2, Rruga dytesore, Tirane, Albania
 
