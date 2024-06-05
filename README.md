@@ -30,3 +30,4 @@ All Ardeno products have trademarks with the local governing laws and certified 
 
 Autostrada Tirane – Durres, Km 2, Rruga dytesore, Tirane, Albania
 
+<i> Thank you for trusting us! </i>
